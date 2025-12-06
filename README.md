@@ -2,6 +2,12 @@
 
 A web application focused on providing resources and tools for learning and engaging with Sanskrit.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/01344408-fb5a-490e-962e-3d09d77b803a
+
+
 ## Key Features & Benefits
 
 *   **Interactive Learning Resources:** Provides access to various Sanskrit learning materials.
